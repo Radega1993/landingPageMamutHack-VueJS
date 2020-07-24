@@ -49,6 +49,13 @@ export default {
   height: 200px;
 } */
 
+.logo {
+  text-align: center;
+  margin: auto;
+  display: block;
+  width: 50%;
+}
+
 .circle-container {
   position: relative;
   width: 24em;
